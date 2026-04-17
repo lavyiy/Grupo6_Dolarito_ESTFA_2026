@@ -17,20 +17,20 @@ La plataforma permite a los usuarios:
 ## Tecnologías / Lenguajes a utilizar
 <!-- COMPLETAR con lo que vayan a usar en el proyecto -->
 - **Frontend**: HTML, CSS, JavaScript (o React)
-- **Backend**: Node.js / Express (o Python + Flask)
-- **Base de datos**: MySQL / PostgreSQL / MongoDB
-- **Gráficos**: Chart.js o ApexCharts
+- **Backend**: Node.js 
+- **Base de datos**: 
+- **Gráficos**: 
 - **APIs externas**: (ej: exchangerate-api, crypto APIs, APIs locales de dólar blue)
-- **Otras**: SMTP para emails, Service Workers para notificaciones
+
 
 ## Integrantes y Roles
 
 | Nombre                  | Rol                                      |
 |-------------------------|------------------------------------------|
-| (Nombre integrante 1)  | Líder de proyecto / Backend              |
-| (Nombre integrante 2)  | Frontend y diseño de interfaz            |
-| (Nombre integrante 3)  | Base de datos y APIs                     |
-| (Nombre integrante 4)  | Documentación y pruebas                  |
+| Valentin Lopez  | Proyect manager              |
+| Santino Tacconi  | Frontend             |
+| (Nombre integrante 3)  | Base de datos                      |
+| (Nombre integrante 4)  | Devopler                   |
 
 *(Reemplaza con los nombres reales y ajusta los roles según corresponda)*
 
