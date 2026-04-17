@@ -18,8 +18,8 @@ La plataforma permite a los usuarios:
 
 - **Frontend**: HTML, CSS, JavaScript (o React)
 - **Backend**: Node.js 
-- **Base de datos**: postgreSQL
-- **Gráficos**: chart.js
+- **Base de datos**: PostgreSQL
+- **Gráficos**: Chart.js
 - **APIs externas**:  (crypto APIs, APIs locales de dólar blue)
 
 
