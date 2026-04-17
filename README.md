@@ -28,11 +28,12 @@ La plataforma permite a los usuarios:
 | Nombre                  | Rol                                      |
 |-------------------------|------------------------------------------|
 | Valentin Lopez  | Proyect manager              |
-| Santino Tacconi  | Frontend             |
-| (Nombre integrante 3)  | Base de datos                      |
-| (Nombre integrante 4)  | Devopler                   |
+| Santino Tacconi  | Devloper             |
+| Lorenzo Sanchez  | Base de datos |                      
+| Santiago Centurion  | Devloper |                   
+| Bruno Cabrera | Diseño UX |
 
-*(Reemplaza con los nombres reales y ajusta los roles según corresponda)*
+
 
 ## Color del grupo
 - **Color principal**: `#XXXXXX` (ejemplo: `#00BFFF` - Azul Dolarito)  
