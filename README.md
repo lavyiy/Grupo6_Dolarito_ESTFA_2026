@@ -30,7 +30,7 @@ La plataforma permite a los usuarios:
 | Valentin Lopez  | Proyect manager              |
 | Santino Tacconi  | Devepler             |
 | Lorenzo Sanchez  | Base de datos                      |
-| Bruno cabrera 4)  | Diseño UX
+| Bruno cabrera   | Diseño UX
 | Santiago Centurion | Developer                   |
 
 
