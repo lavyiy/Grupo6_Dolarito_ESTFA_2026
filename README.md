@@ -28,9 +28,10 @@ La plataforma permite a los usuarios:
 | Nombre                  | Rol                                      |
 |-------------------------|------------------------------------------|
 | Valentin Lopez  | Proyect manager              |
-| Santino Tacconi  | Frontend             |
-| (Nombre integrante 3)  | Base de datos                      |
-| (Nombre integrante 4)  | Devopler                   |
+| Santino Tacconi  | Devopler             |
+| Lorenzo Sanchez  | Base de datos                      |
+| Bruno cabrera 4)  | Diseño UX
+                   |
 
 *(Reemplaza con los nombres reales y ajusta los roles según corresponda)*
 
