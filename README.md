@@ -39,11 +39,5 @@ La plataforma permite a los usuarios:
 - **Color principal**: `#1A2A44`
  
 
-## Estructura del repositorio
-
-- `/código` → Todo el código fuente del proyecto (frontend, backend, etc.)
-- `/documentación` → Documentos del proyecto (este PDF, diagramas, etc.)
-
 ---
-
 **Proyecto desarrollado para la cátedra de Programación / Laboratorio de Software (FAM - Fameghino)**
